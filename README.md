@@ -1,4 +1,4 @@
-# Predicting future extreme rainfall over urban environments: systematic selection of climate projections and CNN-based downscaling
+# Predicting future extreme rainfall over urban catchment: systematic selection of climate projections and CNN-based downscaling
 
 **Authors**: Wegayehu Asfaw* (from UT-ITC, NL), Tom Rientjes (from UT-ITC, NL), Alemseged Tamiru Haile (from IWMI, ETH), and Hui Tang (from GFZ, GER)  
 **Last updated**: March 2026
